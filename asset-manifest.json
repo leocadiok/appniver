@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/appniver/static/css/main.a69cf5ac.css",
-    "main.js": "/appniver/static/js/main.98b0d989.js",
+    "main.js": "/appniver/static/js/main.cf785787.js",
     "static/media/music.mp3": "/appniver/static/media/music.289f1e92a659cb9397ec.mp3",
     "static/media/ia1.png": "/appniver/static/media/ia1.10f16bc1c25f31a81b35.png",
     "static/media/ia3.png": "/appniver/static/media/ia3.1386d11868ce11121b34.png",
     "index.html": "/appniver/index.html",
     "main.a69cf5ac.css.map": "/appniver/static/css/main.a69cf5ac.css.map",
-    "main.98b0d989.js.map": "/appniver/static/js/main.98b0d989.js.map"
+    "main.cf785787.js.map": "/appniver/static/js/main.cf785787.js.map"
   },
   "entrypoints": [
     "static/css/main.a69cf5ac.css",
-    "static/js/main.98b0d989.js"
+    "static/js/main.cf785787.js"
   ]
 }
