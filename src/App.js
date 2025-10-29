@@ -5,7 +5,7 @@ import Dashboard from './pages/Dashboard';
 
 const App = () => {
   return (
-    <Router basename="/birthday">
+    <Router basename="/appniver">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
