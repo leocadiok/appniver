@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/birthday/static/css/main.dee2622a.css",
-    "main.js": "/birthday/static/js/main.516da5c9.js",
-    "static/media/music.mp3": "/birthday/static/media/music.289f1e92a659cb9397ec.mp3",
-    "static/media/ia1.png": "/birthday/static/media/ia1.10f16bc1c25f31a81b35.png",
-    "static/media/ia3.png": "/birthday/static/media/ia3.1386d11868ce11121b34.png",
-    "index.html": "/birthday/index.html",
-    "main.dee2622a.css.map": "/birthday/static/css/main.dee2622a.css.map",
-    "main.516da5c9.js.map": "/birthday/static/js/main.516da5c9.js.map"
+    "main.css": "/appniver/static/css/main.a69cf5ac.css",
+    "main.js": "/appniver/static/js/main.98b0d989.js",
+    "static/media/music.mp3": "/appniver/static/media/music.289f1e92a659cb9397ec.mp3",
+    "static/media/ia1.png": "/appniver/static/media/ia1.10f16bc1c25f31a81b35.png",
+    "static/media/ia3.png": "/appniver/static/media/ia3.1386d11868ce11121b34.png",
+    "index.html": "/appniver/index.html",
+    "main.a69cf5ac.css.map": "/appniver/static/css/main.a69cf5ac.css.map",
+    "main.98b0d989.js.map": "/appniver/static/js/main.98b0d989.js.map"
   },
   "entrypoints": [
-    "static/css/main.dee2622a.css",
-    "static/js/main.516da5c9.js"
+    "static/css/main.a69cf5ac.css",
+    "static/js/main.98b0d989.js"
   ]
 }
